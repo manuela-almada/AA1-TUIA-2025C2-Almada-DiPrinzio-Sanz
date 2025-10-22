@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <Style id="22">
+                <IconStyle id="23">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="32">
+                <IconStyle id="33">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="34">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="57">
+                <IconStyle id="58">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="59">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="62">
+                <IconStyle id="63">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="64">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="87">
+                <IconStyle id="88">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="89">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="97">
+                <IconStyle id="98">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="99">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="127">
+                <IconStyle id="128">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="129">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="162">
+                <IconStyle id="163">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="164">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="182">
+                <IconStyle id="183">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="184">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="187">
+                <IconStyle id="188">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="189">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="197">
+                <IconStyle id="198">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="199">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="202">
+                <IconStyle id="203">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="204">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="212">
+                <IconStyle id="213">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="214">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="222">
+                <IconStyle id="223">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="224">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="247">
+                <IconStyle id="248">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="249">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Sureste</name>
+            <Placemark id="21">
+                <name>Albury</name>
+                <styleUrl>#22</styleUrl>
+                <Point id="20">
+                    <coordinates>146.9156,-36.0806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="31">
+                <name>BadgerysCreek</name>
+                <styleUrl>#32</styleUrl>
+                <Point id="30">
+                    <coordinates>150.75222,-33.87972,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56">
+                <name>Canberra</name>
+                <styleUrl>#57</styleUrl>
+                <Point id="55">
+                    <coordinates>149.13,-35.2809,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="61">
+                <name>Cobar</name>
+                <styleUrl>#62</styleUrl>
+                <Point id="60">
+                    <coordinates>145.838,-31.499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="86">
+                <name>Hobart</name>
+                <styleUrl>#87</styleUrl>
+                <Point id="85">
+                    <coordinates>147.3272,-42.8821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>Launceston</name>
+                <styleUrl>#97</styleUrl>
+                <Point id="95">
+                    <coordinates>147.1441,-41.4332,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>MountGinini</name>
+                <styleUrl>#127</styleUrl>
+                <Point id="125">
+                    <coordinates>148.772276,-35.529523,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="161">
+                <name>Penrith</name>
+                <styleUrl>#162</styleUrl>
+                <Point id="160">
+                    <coordinates>150.6946,-33.751,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="181">
+                <name>Richmond</name>
+                <styleUrl>#182</styleUrl>
+                <Point id="180">
+                    <coordinates>150.75,-33.6,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>Sale</name>
+                <styleUrl>#187</styleUrl>
+                <Point id="185">
+                    <coordinates>147.066666,-38.099998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>Sydney</name>
+                <styleUrl>#197</styleUrl>
+                <Point id="195">
+                    <coordinates>151.2093,-33.8688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>SydneyAirport</name>
+                <styleUrl>#202</styleUrl>
+                <Point id="200">
+                    <coordinates>151.179428,-33.947346,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>Tuggeranong</name>
+                <styleUrl>#212</styleUrl>
+                <Point id="210">
+                    <coordinates>149.0888,-35.4244,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>WaggaWagga</name>
+                <styleUrl>#222</styleUrl>
+                <Point id="220">
+                    <coordinates>147.356522,-35.117275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>Wollongong</name>
+                <styleUrl>#247</styleUrl>
+                <Point id="245">
+                    <coordinates>150.8931,-34.4278,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <Style id="17">
+                <IconStyle id="18">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="19">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="157">
+                <IconStyle id="158">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="159">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="167">
+                <IconStyle id="168">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="169">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="172">
+                <IconStyle id="173">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="174">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="192">
+                <IconStyle id="193">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="194">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="227">
+                <IconStyle id="228">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="229">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="242">
+                <IconStyle id="243">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="244">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Suroeste</name>
+            <Placemark id="16">
+                <name>Albany</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="15">
+                    <coordinates>117.881386,-35.022778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>PearceRAAF</name>
+                <styleUrl>#157</styleUrl>
+                <Point id="155">
+                    <coordinates>116.009,-31.6677,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>Perth</name>
+                <styleUrl>#167</styleUrl>
+                <Point id="165">
+                    <coordinates>115.8605,-31.9505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="171">
+                <name>PerthAirport</name>
+                <styleUrl>#172</styleUrl>
+                <Point id="170">
+                    <coordinates>115.964,-31.936,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>SalmonGums</name>
+                <styleUrl>#192</styleUrl>
+                <Point id="190">
+                    <coordinates>121.62,-32.99,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>Walpole</name>
+                <styleUrl>#227</styleUrl>
+                <Point id="225">
+                    <coordinates>116.731331,-34.97623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>Witchcliffe</name>
+                <styleUrl>#242</styleUrl>
+                <Point id="240">
+                    <coordinates>115.09999,-34.02511,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="4">
+            <Style id="77">
+                <IconStyle id="78">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="79">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="92">
+                <IconStyle id="93">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="94">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Norte</name>
+            <Placemark id="76">
+                <name>Darwin</name>
+                <styleUrl>#77</styleUrl>
+                <Point id="75">
+                    <coordinates>130.8456,-12.4634,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="91">
+                <name>Katherine</name>
+                <styleUrl>#92</styleUrl>
+                <Point id="90">
+                    <coordinates>132.2667,-14.465,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="5">
+            <Style id="47">
+                <IconStyle id="48">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="49">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="67">
+                <IconStyle id="68">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="69">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="82">
+                <IconStyle id="83">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="84">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="117">
+                <IconStyle id="118">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="119">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="132">
+                <IconStyle id="133">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="134">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="142">
+                <IconStyle id="143">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="144">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="237">
+                <IconStyle id="238">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="239">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Este</name>
+            <Placemark id="46">
+                <name>Brisbane</name>
+                <styleUrl>#47</styleUrl>
+                <Point id="45">
+                    <coordinates>153.0251,-27.4698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="66">
+                <name>CoffsHarbour</name>
+                <styleUrl>#67</styleUrl>
+                <Point id="65">
+                    <coordinates>153.114136,-30.296276,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="81">
+                <name>GoldCoast</name>
+                <styleUrl>#82</styleUrl>
+                <Point id="80">
+                    <coordinates>153.4144,-28.000085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="116">
+                <name>Moree</name>
+                <styleUrl>#117</styleUrl>
+                <Point id="115">
+                    <coordinates>149.8417,-29.4653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>Newcastle</name>
+                <styleUrl>#132</styleUrl>
+                <Point id="130">
+                    <coordinates>151.7817,-32.9283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="141">
+                <name>NorahHead</name>
+                <styleUrl>#142</styleUrl>
+                <Point id="140">
+                    <coordinates>151.5667,-33.2833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>Williamtown</name>
+                <styleUrl>#237</styleUrl>
+                <Point id="235">
+                    <coordinates>151.839,-32.809,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6">
+            <Style id="12">
+                <IconStyle id="13">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="14">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="37">
+                <IconStyle id="38">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="39">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="42">
+                <IconStyle id="43">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="44">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="72">
+                <IconStyle id="73">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="74">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="102">
+                <IconStyle id="103">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="104">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="107">
+                <IconStyle id="108">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="109">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="112">
+                <IconStyle id="113">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="114">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="122">
+                <IconStyle id="123">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="124">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="137">
+                <IconStyle id="138">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="139">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="152">
+                <IconStyle id="153">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="154">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="177">
+                <IconStyle id="178">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="179">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="232">
+                <IconStyle id="233">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="234">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="252">
+                <IconStyle id="253">
+                    <color>ffff00ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="254">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Sur</name>
+            <Placemark id="11">
+                <name>Adelaide</name>
+                <styleUrl>#12</styleUrl>
+                <Point id="10">
+                    <coordinates>138.6007,-34.9285,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36">
+                <name>Ballarat</name>
+                <styleUrl>#37</styleUrl>
+                <Point id="35">
+                    <coordinates>143.8503,-37.5622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41">
+                <name>Bendigo</name>
+                <styleUrl>#42</styleUrl>
+                <Point id="40">
+                    <coordinates>144.2794,-36.757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="71">
+                <name>Dartmoor</name>
+                <styleUrl>#72</styleUrl>
+                <Point id="70">
+                    <coordinates>141.273,-37.914389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="101">
+                <name>Melbourne</name>
+                <styleUrl>#102</styleUrl>
+                <Point id="100">
+                    <coordinates>144.9631,-37.8136,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="106">
+                <name>MelbourneAirport</name>
+                <styleUrl>#107</styleUrl>
+                <Point id="105">
+                    <coordinates>144.844788,-37.663712,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="111">
+                <name>Mildura</name>
+                <styleUrl>#112</styleUrl>
+                <Point id="110">
+                    <coordinates>142.13649,-34.206841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
+                <name>MountGambier</name>
+                <styleUrl>#122</styleUrl>
+                <Point id="120">
+                    <coordinates>140.783783,-37.824429,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="136">
+                <name>Nhil</name>
+                <styleUrl>#137</styleUrl>
+                <Point id="135">
+                    <coordinates>141.650346,-36.332798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>Nuriootpa</name>
+                <styleUrl>#152</styleUrl>
+                <Point id="150">
+                    <coordinates>138.995,-34.467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>Portland</name>
+                <styleUrl>#177</styleUrl>
+                <Point id="175">
+                    <coordinates>141.6,-38.3333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="231">
+                <name>Watsonia</name>
+                <styleUrl>#232</styleUrl>
+                <Point id="230">
+                    <coordinates>145.082778,-37.711389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Woomera</name>
+                <styleUrl>#252</styleUrl>
+                <Point id="250">
+                    <coordinates>136.825423,-31.200317,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="7">
+            <Style id="52">
+                <IconStyle id="53">
+                    <color>ffffff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="54">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="207">
+                <IconStyle id="208">
+                    <color>ffffff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="209">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Noroeste</name>
+            <Placemark id="51">
+                <name>Cairns</name>
+                <styleUrl>#52</styleUrl>
+                <Point id="50">
+                    <coordinates>145.7781,-16.9186,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>Townsville</name>
+                <styleUrl>#207</styleUrl>
+                <Point id="205">
+                    <coordinates>146.8169,-19.259,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="8">
+            <Style id="147">
+                <IconStyle id="148">
+                    <color>ff888888</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="149">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Pacifico</name>
+            <Placemark id="146">
+                <name>NorfolkIsland</name>
+                <styleUrl>#147</styleUrl>
+                <Point id="145">
+                    <coordinates>167.956585,-29.0328,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="9">
+            <Style id="27">
+                <IconStyle id="28">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="29">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="217">
+                <IconStyle id="218">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="219">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Centro</name>
+            <Placemark id="26">
+                <name>AliceSprings</name>
+                <styleUrl>#27</styleUrl>
+                <Point id="25">
+                    <coordinates>133.8836,-23.6975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>Uluru</name>
+                <styleUrl>#217</styleUrl>
+                <Point id="215">
+                    <coordinates>131.0354,-25.3415,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
