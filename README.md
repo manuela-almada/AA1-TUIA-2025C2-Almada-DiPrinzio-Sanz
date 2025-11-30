@@ -16,19 +16,27 @@ wsl --shutdown
 wsl
 ```
 
-Para ver distribuciones disponibles
+### Para ver distribuciones disponibles
+```powershell
 wsl --list --online
+```
 
-Instalar Ubuntu 22.04
+### Instalar Ubuntu 22.04
+```powershell
 wsl --install -d Ubuntu-22.04
+```
 
 # 🐳 2. Construir la imagen Docker 
 ### Desde la carpeta donde se encuentre Dockerfile
+```powershell
 docker build -t rain-prediction-inference .
+```
 
 # ▶️ 3. Ejecutar el contenedor con inferencia
 ### Debe contar con un archivo JSON con los datos de entrada.
+```powershell
 docker run -it --rm --name rain-container -v "${PWD}\files:/files" rain-prediction-inference
+```
 
 El script inferencia.py leerá automáticamente /files/input.json
 y devolverá una salida similar a:
@@ -38,9 +46,10 @@ y devolverá una salida similar a:
 }
 
 # 🔁 4. Reiniciar WSL (si es necesario, antes de correr el Docker)
-
+```powershell
 wsl --shutdown
 wsl --update
+```
 
 # 📁 5. Estructura del proyecto dentro de docker/
 docker/
