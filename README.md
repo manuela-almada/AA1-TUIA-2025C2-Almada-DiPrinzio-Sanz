@@ -53,6 +53,7 @@ wsl --update
 
 # 📁 5. Estructura del proyecto dentro de docker/
 docker/
+
 │── inferencia.py
 
 │── pipeline.pkl
