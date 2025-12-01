@@ -33,17 +33,13 @@ docker build -t rain-prediction-inference .
 ```
 
 # ▶️ 3. Ejecutar el contenedor con inferencia
-### Debe contar con un archivo JSON con los datos de entrada.
+### Debe contar con un archivo CSV con los datos de entrada.
 ```powershell
 docker run -it --rm --name rain-container -v "${PWD}\files:/files" rain-prediction-inference
 ```
 
-El script inferencia.py leerá automáticamente /files/input.json
-y devolverá una salida similar a:
-{
-    "prediction": 1,
-    "probability": 0.72
-}
+El script inferencia.py leerá automáticamente /files/input.csv
+y en archivo output.csv tendrá los resultados de la prediccion de lluvia (1 = lluvia, 0 = no lluvia)
 
 # 🔁 4. Reiniciar WSL (si es necesario, antes de correr el Docker)
 ```powershell
